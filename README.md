@@ -18,4 +18,4 @@ This module contains:
     Installation file, 'requirements.txt'
     This readme file, 'README.md'
 
-Only the Jupyter needs to be run, and can be run directly from a terminal or by visiting <>
+Only the Jupyter needs to be run, and can be run directly from a terminal or by visiting <https://github.com/gregj126/linear-regression/blob/master/simple-linear-regression.ipynb>
